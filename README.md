@@ -5,13 +5,13 @@ CS50’s Web Programming with Python and JavaScript
 2) There are total 6 projects.
 
 The default branch name is CS50-Projects.
-If you have a local clone, you can update it by running the following commands:
-1) git branch -m main CS50-Projects
-2) git fetch origin
-3) git branch -u origin/CS50-Projects CS50-Projects
-4) git remote set-head origin -a
+**If you have a local clone, you can update it by running the following commands:**
+- git branch -m main CS50-Projects
+- git fetch origin
+- git branch -u origin/CS50-Projects CS50-Projects
+- git remote set-head origin -a
 
-To upload projects on your device to this branch:
+**To upload projects on your device to this branch:**
 1) git init
 - Initialized empty Git repository
 2) git checkout -b web50/projects/2020/x/wiki
