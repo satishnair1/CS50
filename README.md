@@ -11,7 +11,7 @@ The default branch name is CS50-Projects.
 - git branch -u origin/CS50-Projects CS50-Projects
 - git remote set-head origin -a
 
-**To upload projects on your device to this branch:**
+**To upload projects from your device to me50 branch:**
 1) git init (- Initialized empty Git repository)
 2) git checkout -b web50/projects/2020/x/wiki (- Switched to a new branch)
 3) git status (- Shows untracked files)
