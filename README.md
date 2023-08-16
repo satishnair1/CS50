@@ -9,7 +9,7 @@ main is now named CS50-Projects
 
 If you have a local clone, you can update it by running the following commands.
 
---> git branch -m main CS50-Projects 
---> git fetch origin
---> git branch -u origin/CS50-Projects CS50-Projects
---> git remote set-head origin -a
+1) git branch -m main CS50-Projects
+2) git fetch origin
+3) git branch -u origin/CS50-Projects CS50-Projects
+4) git remote set-head origin -a
